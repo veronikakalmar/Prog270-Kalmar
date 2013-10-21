@@ -1,5 +1,4 @@
-Prog270-Kalmar
-==============
+A Heading for Assignement 4B Prog270-Kalmar
+===========================================
 
-More stuff
-==========
+Here is a sentence
