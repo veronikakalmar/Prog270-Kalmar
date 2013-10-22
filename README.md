@@ -1,4 +1,4 @@
-A Heading for Assignement 4B Prog270-Kalmar
+Assignement 4B Heading Prog270-Kalmar
 ===========================================
 
 Here is a sentence
